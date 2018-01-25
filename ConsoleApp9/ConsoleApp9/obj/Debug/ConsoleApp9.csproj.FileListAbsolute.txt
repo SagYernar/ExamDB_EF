@@ -1,0 +1,11 @@
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\bin\Debug\EntityFramework.dll
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\bin\Debug\EntityFramework.xml
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csprojResolveAssemblyReference.cache
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\Ернар\Desktop\2-master\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
